@@ -4,10 +4,14 @@ rgtest = {
         location = "centralus"
     }
 
-    # rg2 ={
-    #     name= "rgtest2"
-    #     location = "centralus"
-    # }
+    rg2 ={
+    rg2 ={
+         name= "rgtest2"
+         location = "centralus"
+     }
+         name= "rgtest2"
+         location = "centralus"
+     }
 }
 
 vnettest = {
