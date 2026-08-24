@@ -13,6 +13,11 @@ rgtest = {
         name= "rgtest3"
         location = "centralus"
     }
+
+    rg4 ={
+        name= "rgtest4"
+        location = "centralus"
+    }
 }
 
 vnettest = {
